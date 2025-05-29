@@ -77,7 +77,6 @@
 body {
     font-family: 'Inter';
     height: 100vh;
-    background-color: var(--clr-grey-200);
 }
 
 .container {
